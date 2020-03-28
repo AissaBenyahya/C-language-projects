@@ -5,7 +5,7 @@
 
 void usage(void)
 {
-	printf("Command name: RevoSearch\n");
+	printf("Command name: searchin\n");
 	printf("version: 1.0\n");
 	printf("Copyright(c) 2020\n");
 	printf("Written by: Aissa ben yahya\n");
